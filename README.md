@@ -10,4 +10,4 @@ When the user clicks the "close" button in the dialog, the onClose callback shou
 - Use class name `model-overlay` for model container.
 - Use class name `model-close` for model close button.
 
-![output](https://storage.googleapis.com/acciojob-open-file-collections/composition-2.gif)
+![output](https://storage.googleapis.com/acciojob-open-file-collections/composition-20.gif)
